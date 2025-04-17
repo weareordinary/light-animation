@@ -51,6 +51,13 @@ const Animation: React.FC = () => {
             <p className="subtitle">in React</p>
           </div>
       </div>
+      <div className="attribution-container">
+        <p>
+          This is a recreation of <a href="https://lighttutorial.framer.website/" target="_blank" rel="noopener noreferrer">this tutorial</a> by <a href="https://x.com/victoria_framer" target="_blank" rel="noopener noreferrer">Viktoria</a>.
+          <br />
+          Made by <a href="https://x.com/_bgma" target="_blank" rel="noopener noreferrer">BGMA</a>. Get the code <a href="https://github.com/weareordinary/light-animation" target="_blank" rel="noopener noreferrer">here</a>.
+        </p>
+      </div>
     </div>
   );
 };

@@ -198,3 +198,29 @@
     max-width: 320px;
   }
 }
+
+.attribution-container {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #f7f7f7;
+}
+
+.attribution-container p {
+  margin: 0;
+}
+
+.attribution-container a {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.attribution-container a:hover {
+  text-decoration: underline;
+}
+
+.attribution-container br {
+  content: "";
+  margin: 0.5em;
+  display: block;
+}
